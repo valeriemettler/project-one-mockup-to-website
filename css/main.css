@@ -1,0 +1,43 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: #666666;
+}
+
+h1 {
+  font-size: 344%;
+  margin-left: 2px;
+  padding-top: 24px;
+}
+
+h2 {
+  font-size: 171%;
+  font-weight: bold;
+  color: #F07C17;
+}
+
+.left-textbox {
+  margin-top: 25px;
+  border: solid 1px #CCCCCC;
+  width: 375px;
+  height:223px;
+  padding-top: 10px;
+  padding-left: 31px;
+}
+
+.photo {
+  height: 395px;
+  width: 374px;
+  padding-top: 20px;
+}
+
+.text {
+  padding-top: 21px;
+  line-height: 2em;
+  font-size: medium;
+}
+
+.list {
+  padding-top: 25px;
+  line-height: 200%;
+  font-size: medium;
+}
